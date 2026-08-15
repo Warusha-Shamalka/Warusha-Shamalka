@@ -5,9 +5,10 @@
 
 ![stats](https://github-readme-stats-tan-five-16.vercel.app/api?username=Warusha-Shamalka&show_icons=true&theme=dark)
 
-### Tech Stack
-
 <div align="center">
+
+### Tech Stack
+---
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -20,9 +21,10 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
 
 ![metrics](./github-metrics.svg)
+
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:1D4ED8,100:0F172A&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=F8FAFC)
 <!-- Your SVG cards and stats will go here -->
