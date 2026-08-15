@@ -27,9 +27,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Warusha-Shamalka/Warusha-Shamalka/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Warusha-Shamalka/Warusha-Shamalka/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Warusha-Shamalka/Warusha-Shamalka/output/github-snake.svg" />
 </picture>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:1D4ED8,100:0F172A&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=F8FAFC)
