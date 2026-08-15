@@ -26,7 +26,7 @@
 
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/Warusha-Shamalka/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Warusha-Shamalka/Warusha-Shamalka/output/github-snake.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:1D4ED8,100:0F172A&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=F8FAFC)
 <!-- Your SVG cards and stats will go here -->
