@@ -4,7 +4,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2500&pause=1200&color=39FF14&background=0D1117&center=false&vCenter=false&width=600&height=70&lines=%24+whoami;%3E+CS+undergrad%2C+3rd+year;%24+cat+interests.txt;%3E+DevOps+%26+Cloud+Infrastructure;%24+status;%3E+learning+by+breaking+things+and+fixing+them)
 
 ![stats](https://github-readme-stats-tan-five-16.vercel.app/api?username=Warusha-Shamalka&show_icons=true&theme=dark)
-![langs](https://github-readme-stats-tan-five-16.vercel.app/api/top-langs/?username=Warusha-Shamalka&layout=compact)
+![langs](https://github-readme-stats-tan-five-16.vercel.app/api/top-langs/?username=Warusha-Shamalka&layout=compact&theme=dark)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Warusha-Shamalka)
 
 ![metrics](./github-metrics.svg)
