@@ -40,8 +40,6 @@ I'm a 3rd-year Computer Science undergraduate with a growing focus on **DevOps a
   </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Warusha-Shamalka&theme=dark&hide_border=true)](https://github.com/Warusha-Shamalka)
-
 <br />
 
 ## Activity Overview
