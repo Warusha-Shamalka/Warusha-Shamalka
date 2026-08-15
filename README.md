@@ -2,8 +2,7 @@
 
 
 # Hi, I'm Warusha Shamalka
-
-I'm a developer who works with JavaScript, Python, and Go.
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2500&pause=1200&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&height=70&lines=%24+whoami;%3E+DevOps+Engineer;%24+terraform+apply;%3E+Infrastructure+as+Code%2C+always;%24+kubectl+get+pods+--watch;%3E+Shipping+containers%2C+not+just+code;%24+echo+%24UPTIME;%3E+99.99%25+and+counting)
 
 - Currently building [Project Name](https://github.com/yourusername/repo)
 - Learning more about systems programming
