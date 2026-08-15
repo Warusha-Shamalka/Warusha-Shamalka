@@ -5,7 +5,7 @@
 
 ![stats](https://github-readme-stats-tan-five-16.vercel.app/api?username=Warusha-Shamalka&show_icons=true&theme=dark)
 ![langs](https://github-readme-stats-tan-five-16.vercel.app/api/top-langs/?username=Warusha-Shamalka&layout=compact&theme=dark)
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=Warusha-Shamalka&layout=compact&theme=dark)
+![streak](https://github-readme-stats-tan-five-16.vercel.app/?user=Warusha-Shamalka&layout=compact&theme=dark)
 
 ![metrics](./github-metrics.svg)
 
