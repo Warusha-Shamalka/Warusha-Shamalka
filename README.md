@@ -31,21 +31,6 @@ I'm a 3rd-year Computer Science undergraduate with a growing focus on **DevOps a
 
 <br />
 
-## GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Warusha-Shamalka&show_icons=true&theme=dark&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warusha-Shamalka&layout=compact&theme=dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
 ## Activity Overview
 
 ![metrics](./github-metrics.svg)
