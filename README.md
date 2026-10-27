@@ -1,16 +1,16 @@
 <div align="center">
 
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:22C55E&height=200&section=header&text=Warusha%20Shamalka&fontSize=42&fontColor=F8FAFC&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:22C55E&height=200&section=header&text=Warusha%20Shamalka&fontSize=42&fontColor=F8FAFC&animation=true" />
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2500&pause=1200&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&height=70&lines=%24+whoami;%3E+CS+undergrad%2C+3rd+year;%24+cat+interests.txt;%3E+DevOps+%26+Cloud+Infrastructure;%24+status;%3E+learning+by+breaking+things+and+fixing+them" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2500&pause=1200&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&height=70&lines=%24+whoami;%3E+C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20;DevOps%20enthusiast;Cloud%20%26%20automation%20builder" />
 
 <br />
 
 ## About Me
 
-I'm a 3rd-year Computer Science undergraduate with a growing focus on **DevOps and cloud infrastructure**. I like automating the parts of a workflow that don't need to be manual, and I'm currently learning by building and breaking things in CI/CD pipelines and containerized environments.
+I'm a 3rd-year Computer Science undergraduate with a growing focus on **DevOps and cloud infrastructure**. I like automating the parts of a workflow that don't need to be manual, and I'm currently learning the tools and practices that help teams ship reliable systems faster.
 
 <br />
 
@@ -36,10 +36,10 @@ I'm a 3rd-year Computer Science undergraduate with a growing focus on **DevOps a
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-tan-five-16.vercel.app/api?username=Warusha-Shamalka&show_icons=true&theme=dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Warusha-Shamalka&show_icons=true&theme=dark&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats-tan-five-16.vercel.app/api/top-langs/?username=Warusha-Shamalka&layout=compact&theme=dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warusha-Shamalka&layout=compact&theme=dark&hide_border=true" />
     </td>
   </tr>
 </table>
