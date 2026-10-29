@@ -63,16 +63,17 @@ I'm a Computer Science student with a strong interest in backend development, AP
 
 <br />
 
+<!--
 ## Activity Overview
 
 ![metrics](./github-metrics.svg)
 
 <br />
-
+-->
 <!-- Snake animation -->
 <picture>
-  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Warusha-Shamalka/Warusha-Shamalka/output/github-snake-dark.svg" /> -->
-  <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Warusha-Shamalka/Warusha-Shamalka/output/github-snake.svg" /> -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Warusha-Shamalka/Warusha-Shamalka/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Warusha-Shamalka/Warusha-Shamalka/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Warusha-Shamalka/Warusha-Shamalka/output/github-snake.svg" />
 </picture>
 
